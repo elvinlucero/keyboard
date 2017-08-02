@@ -1,3 +1,12 @@
-My personal Ergodoc EZ keyboard layout.
+ErgoDox Keyboard Layout
+=======================
 
-You can clone/edit here: http://configure.ergodox-ez.com/keyboard_layouts/qeweae/edit
+Installation
+-----------
+
+All information on installing this layout can be found at: http://configure.ergodox-ez.com/keyboard_layouts/qeweae/edit
+
+Layout
+------
+
+
